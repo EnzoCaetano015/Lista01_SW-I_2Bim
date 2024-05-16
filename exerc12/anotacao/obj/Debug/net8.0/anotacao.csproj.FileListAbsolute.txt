@@ -1,0 +1,14 @@
+C:\Users\caeta\Desktop\exerc12\anotacao\bin\Debug\net8.0\anotacao.exe
+C:\Users\caeta\Desktop\exerc12\anotacao\bin\Debug\net8.0\anotacao.deps.json
+C:\Users\caeta\Desktop\exerc12\anotacao\bin\Debug\net8.0\anotacao.runtimeconfig.json
+C:\Users\caeta\Desktop\exerc12\anotacao\bin\Debug\net8.0\anotacao.dll
+C:\Users\caeta\Desktop\exerc12\anotacao\bin\Debug\net8.0\anotacao.pdb
+C:\Users\caeta\Desktop\exerc12\anotacao\obj\Debug\net8.0\anotacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caeta\Desktop\exerc12\anotacao\obj\Debug\net8.0\anotacao.AssemblyInfoInputs.cache
+C:\Users\caeta\Desktop\exerc12\anotacao\obj\Debug\net8.0\anotacao.AssemblyInfo.cs
+C:\Users\caeta\Desktop\exerc12\anotacao\obj\Debug\net8.0\anotacao.csproj.CoreCompileInputs.cache
+C:\Users\caeta\Desktop\exerc12\anotacao\obj\Debug\net8.0\anotacao.dll
+C:\Users\caeta\Desktop\exerc12\anotacao\obj\Debug\net8.0\refint\anotacao.dll
+C:\Users\caeta\Desktop\exerc12\anotacao\obj\Debug\net8.0\anotacao.pdb
+C:\Users\caeta\Desktop\exerc12\anotacao\obj\Debug\net8.0\anotacao.genruntimeconfig.cache
+C:\Users\caeta\Desktop\exerc12\anotacao\obj\Debug\net8.0\ref\anotacao.dll
