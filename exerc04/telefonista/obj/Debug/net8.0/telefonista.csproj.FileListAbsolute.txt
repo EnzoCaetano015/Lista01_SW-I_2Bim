@@ -1,0 +1,14 @@
+C:\Users\caeta\Desktop\exerc04\telefonista\obj\Debug\net8.0\telefonista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caeta\Desktop\exerc04\telefonista\obj\Debug\net8.0\telefonista.AssemblyInfoInputs.cache
+C:\Users\caeta\Desktop\exerc04\telefonista\obj\Debug\net8.0\telefonista.AssemblyInfo.cs
+C:\Users\caeta\Desktop\exerc04\telefonista\obj\Debug\net8.0\telefonista.csproj.CoreCompileInputs.cache
+C:\Users\caeta\Desktop\exerc04\telefonista\bin\Debug\net8.0\telefonista.exe
+C:\Users\caeta\Desktop\exerc04\telefonista\bin\Debug\net8.0\telefonista.deps.json
+C:\Users\caeta\Desktop\exerc04\telefonista\bin\Debug\net8.0\telefonista.runtimeconfig.json
+C:\Users\caeta\Desktop\exerc04\telefonista\bin\Debug\net8.0\telefonista.dll
+C:\Users\caeta\Desktop\exerc04\telefonista\bin\Debug\net8.0\telefonista.pdb
+C:\Users\caeta\Desktop\exerc04\telefonista\obj\Debug\net8.0\telefonista.dll
+C:\Users\caeta\Desktop\exerc04\telefonista\obj\Debug\net8.0\refint\telefonista.dll
+C:\Users\caeta\Desktop\exerc04\telefonista\obj\Debug\net8.0\telefonista.pdb
+C:\Users\caeta\Desktop\exerc04\telefonista\obj\Debug\net8.0\telefonista.genruntimeconfig.cache
+C:\Users\caeta\Desktop\exerc04\telefonista\obj\Debug\net8.0\ref\telefonista.dll
