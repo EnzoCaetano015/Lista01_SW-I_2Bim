@@ -1,0 +1,14 @@
+C:\Users\caeta\Desktop\exerc03\corretora\bin\Debug\net8.0\corretora.exe
+C:\Users\caeta\Desktop\exerc03\corretora\bin\Debug\net8.0\corretora.deps.json
+C:\Users\caeta\Desktop\exerc03\corretora\bin\Debug\net8.0\corretora.runtimeconfig.json
+C:\Users\caeta\Desktop\exerc03\corretora\bin\Debug\net8.0\corretora.dll
+C:\Users\caeta\Desktop\exerc03\corretora\bin\Debug\net8.0\corretora.pdb
+C:\Users\caeta\Desktop\exerc03\corretora\obj\Debug\net8.0\corretora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caeta\Desktop\exerc03\corretora\obj\Debug\net8.0\corretora.AssemblyInfoInputs.cache
+C:\Users\caeta\Desktop\exerc03\corretora\obj\Debug\net8.0\corretora.AssemblyInfo.cs
+C:\Users\caeta\Desktop\exerc03\corretora\obj\Debug\net8.0\corretora.csproj.CoreCompileInputs.cache
+C:\Users\caeta\Desktop\exerc03\corretora\obj\Debug\net8.0\corretora.dll
+C:\Users\caeta\Desktop\exerc03\corretora\obj\Debug\net8.0\refint\corretora.dll
+C:\Users\caeta\Desktop\exerc03\corretora\obj\Debug\net8.0\corretora.pdb
+C:\Users\caeta\Desktop\exerc03\corretora\obj\Debug\net8.0\corretora.genruntimeconfig.cache
+C:\Users\caeta\Desktop\exerc03\corretora\obj\Debug\net8.0\ref\corretora.dll
