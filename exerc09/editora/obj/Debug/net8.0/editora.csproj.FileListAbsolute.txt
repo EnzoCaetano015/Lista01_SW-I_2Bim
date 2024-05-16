@@ -1,0 +1,14 @@
+C:\Users\caeta\Desktop\exerc09\editora\bin\Debug\net8.0\editora.exe
+C:\Users\caeta\Desktop\exerc09\editora\bin\Debug\net8.0\editora.deps.json
+C:\Users\caeta\Desktop\exerc09\editora\bin\Debug\net8.0\editora.runtimeconfig.json
+C:\Users\caeta\Desktop\exerc09\editora\bin\Debug\net8.0\editora.dll
+C:\Users\caeta\Desktop\exerc09\editora\bin\Debug\net8.0\editora.pdb
+C:\Users\caeta\Desktop\exerc09\editora\obj\Debug\net8.0\editora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caeta\Desktop\exerc09\editora\obj\Debug\net8.0\editora.AssemblyInfoInputs.cache
+C:\Users\caeta\Desktop\exerc09\editora\obj\Debug\net8.0\editora.AssemblyInfo.cs
+C:\Users\caeta\Desktop\exerc09\editora\obj\Debug\net8.0\editora.csproj.CoreCompileInputs.cache
+C:\Users\caeta\Desktop\exerc09\editora\obj\Debug\net8.0\editora.dll
+C:\Users\caeta\Desktop\exerc09\editora\obj\Debug\net8.0\refint\editora.dll
+C:\Users\caeta\Desktop\exerc09\editora\obj\Debug\net8.0\editora.pdb
+C:\Users\caeta\Desktop\exerc09\editora\obj\Debug\net8.0\editora.genruntimeconfig.cache
+C:\Users\caeta\Desktop\exerc09\editora\obj\Debug\net8.0\ref\editora.dll
